@@ -33,10 +33,10 @@ Time spent: 12hrs
 
 
 ### Walkthrough
-![drop-box-demo-walkthrough.gif]
+![Video Walkthrough](drop-box-demo-walkthrough.gif)
 
 ### Note
-To start server use command 
+To start server use command (have some config issues using npm start)
 
 ```
 node index.js --dir <dirname>
